@@ -1,6 +1,0 @@
-C:\Dev\git\samples-and-snippets\SamplesAndSnippets\ObjectPooling\bin\Debug\ObjectPooling.exe.config
-C:\Dev\git\samples-and-snippets\SamplesAndSnippets\ObjectPooling\obj\Debug\ObjectPooling.csprojResolveAssemblyReference.cache
-C:\Dev\git\samples-and-snippets\SamplesAndSnippets\ObjectPooling\bin\Debug\ObjectPooling.exe
-C:\Dev\git\samples-and-snippets\SamplesAndSnippets\ObjectPooling\bin\Debug\ObjectPooling.pdb
-C:\Dev\git\samples-and-snippets\SamplesAndSnippets\ObjectPooling\obj\Debug\ObjectPooling.exe
-C:\Dev\git\samples-and-snippets\SamplesAndSnippets\ObjectPooling\obj\Debug\ObjectPooling.pdb
