@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace ObjectPooling
 {
-	internal class ObjectPool
+	public class ObjectPool
     {
 		private readonly List<ExpensiveObject> _pool = new List<ExpensiveObject>();
 

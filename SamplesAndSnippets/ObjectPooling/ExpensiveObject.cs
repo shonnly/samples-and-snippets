@@ -2,7 +2,7 @@ using System;
 
 namespace ObjectPooling
 {
-	internal class ExpensiveObject
+	public class ExpensiveObject
     {
 		private readonly ObjectPool _objectPool = null;
 
